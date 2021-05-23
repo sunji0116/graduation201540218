@@ -1,0 +1,11 @@
+{
+  "name": "graduation",
+  "version": "1.0.0",
+  "description": "graduation 201540218",
+  "main": "index.js",
+  "author": "JeongIN Seon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
